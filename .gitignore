@@ -24,4 +24,9 @@ hs_err_pid*
 
 # IntelliJ
 out/
+<<<<<<< HEAD
 *.iml
+=======
+*.iml
+*.idea
+>>>>>>> 0a8fb4791397669ab81cbba6d5f758c97a27749e
